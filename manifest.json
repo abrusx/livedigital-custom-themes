@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "LiveDigital Custom Themes",
+  "version": "1.0",
+  "description": "Fix color themes & eye strain relief. Light & dark color themes for warm environment and productive learning.",
+  "content_scripts": [
+    {
+      "matches": ["https://edu.livedigital.space/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  }
+}

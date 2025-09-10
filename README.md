@@ -12,7 +12,7 @@ for chrome-based browser
 ---
 
 ## Dark theme
-![Dark theme]([https://site/foto](https://raw.githubusercontent.com/abrusx/livedigital-custom-themes/refs/heads/main/screenshot_dark.png))
+![Dark theme](https://github.com/abrusx/livedigital-custom-themes/blob/main/screenshot_dark.png)
 
 ## Light theme
-![Light theme]([https://site/foto](https://raw.githubusercontent.com/abrusx/livedigital-custom-themes/refs/heads/main/screenshot_light.png))
+![Light theme](https://github.com/abrusx/livedigital-custom-themes/blob/main/screenshot_light.png)
